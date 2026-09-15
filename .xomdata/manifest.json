@@ -1,1 +1,19 @@
-{}
+{
+  "practice/sql/easy/easy-select-001/solution.sql": "f995f0bdcc687d944f7a84d0c3efb2b4898a772074c09a761668bcb4fbdd73b0",
+  "practice/sql/easy/easy-select-002/solution.sql": "fbb1e424d0da3c02f2bb0955109324724b4f4c73bd723d1e916cac13a1e13663",
+  "practice/sql/easy/easy-where-001/solution.sql": "26e2425bc51a02ec4b479ab4f096a554272414a3d7f062ed1cd1278acc11879d",
+  "practice/sql/easy/easy-like-001/solution.sql": "a9ea115153eea8e35f160100d3caa8fcd385c343594e838ae473a90f1f6f59ed",
+  "practice/sql/easy/easy-orderby-001/solution.sql": "a1a6fca9756d3b3971e316fa26b97e1ee319e27cb29bb7e875f50ea7b3d3164d",
+  "practice/sql/easy/easy-limit-002/solution.sql": "231fc6756adad5a2959a3ed83c501264033927af190e4dd9aec5d42d662edbab",
+  "practice/sql/easy/easy-distinct-006/solution.sql": "93eecea4991cac736a5319272a0c0f55ee8de8194bc3e48824275ac0cb984d8b",
+  "practice/sql/easy/easy-count-001/solution.sql": "b0e2464f56313bd60f59b5c5a86e9a8fdb107bc9bfcc01182c2552beda428211",
+  "practice/sql/easy/easy-sum-001/solution.sql": "e80e3bce86b8583e78418f849275a28dd210aff25e737695fcec61ca1fe504d8",
+  "practice/sql/easy/easy-avg-001/solution.sql": "dfd49e7f11e894847306e31062557bc6cfc53fd7115023265edd0e387fe7c306",
+  "practice/sql/medium/medium-join-001/solution.sql": "91de71d79c6c6499a028a860f48970c84636843cc12c73d895bc9763daab4b9f",
+  "practice/sql/medium/medium-leftjoin-031/solution.sql": "26004f197da5a328d491195a4b1c587745a81de3f6bcd589fd4b01642b00c54c",
+  "practice/sql/medium/medium-groupby-027/solution.sql": "0a63aa49339739bcbbba50f34b15e62f257e5f5d3b39e9d424b11294d0f0ef63",
+  "practice/sql/medium/medium-having-019/solution.sql": "70cb92ffa400fae70ac78269ae6d0fb1ba3387687e209b77a5564e5de763ab40",
+  "practice/sql/medium/medium-case-124/solution.sql": "9785fa6cd33d4489f48c3f9b54a2d44e43e4926217ed621e4451c078d54e3c9f",
+  "practice/sql/medium/medium-subquery-103/solution.sql": "01b1daf50871d82248c485eac08786ea0f97c1c89317a660b9fa8fc61f4e950d",
+  "practice/sql/medium/medium-coalesce-040/solution.sql": "213436a402693d39b0b7146953e447432c5fd7795dea6f282f09509a1c448861"
+}
